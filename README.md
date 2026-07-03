@@ -124,6 +124,6 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sandhya**
 
 Data Science & Machine Learning Enthusiast
